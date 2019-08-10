@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "image": "bobafett.jpg"
+    },
+    {
+      "id": 2,
+      "image": "vader.jpg"    
+    },
+    {
+      "id": 3,
+      "image": "chewbacca.jpg"
+    },
+    {
+      "id": 4,
+      "image": "dooku.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "jabba.jpg"
+    },
+    {
+      "id": 6,
+      "image": "lando.jpg"
+    },
+    {
+      "id": 7,
+      "image": "luke.jpg"
+    },
+    {
+      "id": 8,
+      "image": "obiwan.jpg"
+    },
+    {
+      "id": 9,
+      "image": "padme.jpg"
+    },
+    {
+      "id": 10,
+      "image": "palpatine.jpg"
+    },
+    {
+      "id": 11,
+      "image": "tarkin.jpg"
+    },
+    {
+      "id": 12,
+      "image": "yoda.jpg"
+    }
+  ]
+  
