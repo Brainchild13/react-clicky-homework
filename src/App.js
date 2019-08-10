@@ -64,9 +64,9 @@ class App extends Component {
   render() {
     return (
       <div>
-        <Jumbotron />
-        <Navbar score={this.state.score} />
-        <div className="wrappers">
+         <Navbar score={this.state.score} />
+         <Jumbotron />
+          <div className="wrappers">
           {this.state.starwars.map(starwars => (
             <Card imageClick={this.imageClick}
             id={starwars.id}

@@ -3,7 +3,7 @@
     height: 200px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
     border-radius: 8px;
-    border: 1px solid green;
+    border: 1px solid gray;
   }
 
   .card:hover {
